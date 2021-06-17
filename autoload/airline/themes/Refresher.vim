@@ -10,13 +10,14 @@ let s:gui05 = "#d0d0d0"
 let s:gui06 = "#e0e0e0"
 let s:gui07 = "#ffffff"
 let s:gui08 = "#ff0000"
-let s:gui09 = "#ffa31a"
+let s:gui09 = "#e1fcff"
 let s:gui0A = "#ff0099"
 let s:gui0B = "#ffa31a"
 let s:gui0C = "#00ffff"
-let s:gui0D = "#33ff00"
+let s:gui0D = "#e9ff1a"
 let s:gui0E = "#cc00ff"
 let s:gui0F = "#3300ff"
+
 
 let s:cterm00 = 0
 let s:cterm01 = 237
