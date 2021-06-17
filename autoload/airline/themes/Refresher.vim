@@ -14,7 +14,7 @@ let s:gui09 = "#ffa31a"
 let s:gui0A = "#ff0099"
 let s:gui0B = "#ffa31a"
 let s:gui0C = "#00ffff"
-let s:gui0D = "#0066ff"
+let s:gui0D = "#33ff00"
 let s:gui0E = "#cc00ff"
 let s:gui0F = "#3300ff"
 
